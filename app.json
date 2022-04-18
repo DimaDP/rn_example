@@ -1,0 +1,7 @@
+{
+  "name": "refuture_mobile",
+  "displayName": "Refuture",
+  "plugins": [
+    "expo-local-authentication"
+  ]
+}
